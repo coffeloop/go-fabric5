@@ -1,0 +1,24 @@
+# Go build outputs
+*.out
+
+# Dependencies
+vendor/
+
+# IDE and editor settings
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Build artifacts
+*.log
+*.swp
+*.swn
+*.swo
+*.gdb*
+
+# Custom
+tmp
+configs
+logs
+internal
